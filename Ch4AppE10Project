@@ -1,0 +1,10 @@
+Exercise 10:
+	a)	Input
+		amount
+
+		processing
+		subtract the highest coin value that is less than amount,
+		and add 1 to that coin count
+		
+		output	
+	 	dollars, quarters, dimes, nickles, pennies
